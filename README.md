@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nullBadgers, IT Mac Engineer from the UK.
+- 👋 Hi, I’m @nullBadgers, IT Engineer in UK.
 - 🌱 I’m currently learning JavaScript and studying for my AWS Certified Solutions Architect Associate certificate.
 - 📫 You can drop a message if you want to chat!
 
